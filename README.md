@@ -1,4 +1,10 @@
 
+
+
+Uploading ScreenRecording_06-12-2025 00-56-37_1.MP4…
+
+
+
 # ecmarkets-test
 =======
 # Welcome to your Expo app 👋
