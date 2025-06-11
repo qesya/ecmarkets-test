@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ecmarkets-test
 =======
 # Welcome to your Expo app 👋
